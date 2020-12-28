@@ -1,5 +1,5 @@
 package com.oicq.frame;
-
+//测试该Git用法的修改，不用理会
 import com.oicq.client.InteractWithServer;
 
 import javax.swing.*;
